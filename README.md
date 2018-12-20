@@ -7,7 +7,8 @@
 
 ### Links and Resources
 * [Assignment 1 - Props Practice](https://codesandbox.io/s/0p7mp686qw)
-* [travis](http://xyz.com)
+* [Assignment 1 - Props Practice - Refactor](https://codesandbox.io/s/rl8y4lj90o)
+* [Assignment 2 - Internal State Practice](https://codesandbox.io/s/r57rn6wvk4)
 
 ### Modules
 #### `modulename.js`
