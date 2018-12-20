@@ -1,15 +1,14 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## 28 LAB - Props and State
 
-### Author: Student/Group Name
+### Author: Ashley Breunich
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [Assignment 1 - Props Practice](https://codesandbox.io/s/0p7mp686qw)
+* [Assignment 1 - Props Practice - Refactor](https://codesandbox.io/s/rl8y4lj90o)
+* [Assignment 2 - Internal State Practice](https://codesandbox.io/s/r57rn6wvk4)
 
 ### Modules
 #### `modulename.js`
@@ -23,15 +22,7 @@ Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* NODE_PATH = src
 
 #### Tests
 * How do you run tests?
