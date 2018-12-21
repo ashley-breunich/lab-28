@@ -10,6 +10,8 @@
 * [Assignment 1 - Props Practice - Refactor](https://codesandbox.io/s/rl8y4lj90o)
 * [Assignment 2 - Internal State Practice](https://codesandbox.io/s/r57rn6wvk4)
 * [Assignment 2 - Internal State Practice - Refactor](https://codesandbox.io/s/2v6qqzo1zn)
+* [Assignment 3 - External State Practice](https://codesandbox.io/s/l2ww20z1v7)
+
 
 ### Modules
 #### `modulename.js`
